@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.1.4",
-  "release_date": "2026-08-18",
+  "latest_version": "2.1.5",
+  "release_date": "2026-08-19",
   "release_notes": "\u2022 Performance improvements and bug fixes\n\u2022 Enhanced AI caption & hashtag generator",
-  "download_url": "https://github.com/76687-byte/reels-matrix/releases/download/v2.1.4/ReelsMatrix_v2.1.4_Setup.exe",
+  "download_url": "https://github.com/76687-byte/reels-matrix/releases/download/v2.1.5/ReelsMatrix_v2.1.5_Setup.exe",
   "is_critical": false
 }
